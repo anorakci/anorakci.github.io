@@ -1,0 +1,21 @@
+# Site settings
+title: Anorak
+email: jbrooksuk@me.com
+description: > # this means to ignore newlines until "baseurl:"
+  Thanks for checking out our blog! Get the latest news and updates on Anorak.
+baseurl: ""
+url: "http://blog.anorakci.com" # the base hostname & protocol for your site
+twitter_username: anorakci
+github_username:  anorakci
+
+# Build settings
+markdown: kramdown
+
+authors:
+  james:
+    display_name: James Brooks
+    gravatar: 13616b6551a3854378f9e6fea964e519
+    email: jbrooksuk@me.com
+    web: http://james-brooks.uk
+    twitter: jbrooksuk
+    github: jbrooksuk
